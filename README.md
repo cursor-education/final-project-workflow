@@ -63,3 +63,5 @@ Phases:
 5. Closing
   - Presentation
     - What presentation tools will be used? (Prezi? Google presentation?)
+
+(c) CURSOR Education
