@@ -29,9 +29,11 @@ Phases:
     - Database structure if relation database will be used
     - The UML diagram
   - The directory stucture of application is created
+    - Where shared static files will be located? Images? Styles?
+    - Build process?
   - **Code convention** is approved with each team player
     - Naming of variables/functions? UPPERCASE? lowercase? camelCase? underscode_case? etc?
-    - And stored to some shared space
+    - Should be stored to some shared space
   - What **methodologies/tools** for management will be used?
     - Methodology?
       - [Scrum](https://www.scrumalliance.org/why-scrum)
